@@ -1,0 +1,22 @@
+current directory: /var/www/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+/usr/local/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /var/www/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make DESTDIR\= sitearchdir\=./.gem.20240313-1-1xhgv8p sitelibdir\=./.gem.20240313-1-1xhgv8p clean
+
+current directory: /var/www/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make DESTDIR\= sitearchdir\=./.gem.20240313-1-1xhgv8p sitelibdir\=./.gem.20240313-1-1xhgv8p
+compiling bcrypt_ext.c
+compiling crypt_blowfish.c
+gcc  -D__SKIP_GNU     -c -o x86.o x86.S
+compiling crypt_gensalt.c
+compiling wrapper.c
+linking shared-object bcrypt_ext.so
+
+current directory: /var/www/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make DESTDIR\= sitearchdir\=./.gem.20240313-1-1xhgv8p sitelibdir\=./.gem.20240313-1-1xhgv8p install
+/usr/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20240313-1-1xhgv8p
+
+current directory: /var/www/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make DESTDIR\= sitearchdir\=./.gem.20240313-1-1xhgv8p sitelibdir\=./.gem.20240313-1-1xhgv8p clean

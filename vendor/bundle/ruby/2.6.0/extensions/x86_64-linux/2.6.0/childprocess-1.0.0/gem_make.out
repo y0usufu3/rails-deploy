@@ -1,0 +1,5 @@
+current directory: /var/www/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.0/ext
+/usr/local/bin/ruby mkrf_conf.rb
+
+current directory: /var/www/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.0/ext
+/usr/local/bin/ruby -rrubygems /var/www/vendor/bundle/ruby/2.6.0/gems/rake-13.1.0/exe/rake RUBYARCHDIR\=/var/www/vendor/bundle/ruby/2.6.0/extensions/x86_64-linux/2.6.0/childprocess-1.0.0 RUBYLIBDIR\=/var/www/vendor/bundle/ruby/2.6.0/extensions/x86_64-linux/2.6.0/childprocess-1.0.0
